@@ -1,14 +1,14 @@
-### o/ hey, i'm jayant.
+### Hey, I'm Jayant.
 
-i'm a full-stack developer & creative engineer based in pune, india. i like taking complex systems apart, understanding how every piece works, and turning them into expressive, production-ready software.
+I'm a full-stack developer & creative engineer based in pune, india. I like taking complex systems apart, understanding how every piece works, and turning them into expressive, production-ready software.
 
 ---
 
-**what i'm building**
+**What i'm building**
 
-currently exploring generative ai developer tooling, interactive spatial 3d web experiences, and high-performance frontend architectures.
+Currently exploring generative ai developer tooling, interactive spatial 3d web experiences, and high-performance frontend architectures.
 
-**featured work**
+**Featured work**
 
 - created **[3d-portfolio](https://github.com/Jayant-1/3D-Portfolio)**, an interactive 3d space workstation built with three.js, gsap, and react (40+ ⭐)
 - built **[astropixel](https://github.com/Jayant-1/AstroPixel)**, a deep-zoom nasa imagery explorer with gdal tile pyramids, fast-api, and spatial annotations
@@ -19,9 +19,9 @@ currently exploring generative ai developer tooling, interactive spatial 3d web 
 
 ---
 
-**let's connect**
+**Let's connect**
 
-seeking software engineering roles & internships (open to hybrid & remote).
+Seeking software engineering roles & internships (open to hybrid & remote).
 
 - explore my portfolio & case studies at **[jayant.codes](https://jayant.codes/)**
 - view my **[resume](https://jayant.codes/resume.pdf)**
