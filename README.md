@@ -23,8 +23,8 @@ currently exploring generative ai developer tooling, interactive spatial 3d web 
 
 seeking software engineering roles & internships (open to hybrid & remote).
 
-- explore my portfolio & case studies at **[jayantpotdar.in](https://www.jayantpotdar.in/)**
-- view my **[resume](https://www.jayantpotdar.in/resume.pdf)**
+- explore my portfolio & case studies at **[jayant.codes](https://jayant.codes/)**
+- view my **[resume](https://jayant.codes/resume.pdf)**
 - send me an email at **[jayantpotdar2006@gmail.com](mailto:jayantpotdar2006@gmail.com)** or connect on **[linkedin](https://www.linkedin.com/in/jayant-potdar-880a461b8/)**
 
 ---
